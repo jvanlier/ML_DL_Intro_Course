@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 *.xlsx
+**/.DS_Store
+**/Untitled.ipynb
+*.h5
